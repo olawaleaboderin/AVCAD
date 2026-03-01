@@ -9,6 +9,7 @@
 ### Main Visualization Goal (Audience)
 - The main goal of the Climate Spiral visualization is to communicate the long-term warming trend of the Earth's climate in an intuitive and visually compelling way. It shows how global temperatures have increased over time, demonstrate the accelerating warming trend, and make climate change visually undeniable.
 - The Climate Spiral was designed for a wide audience, including scientists and researchers, policymakers, journalists, educators, and the general public.
+
 ![Climate Spiral Animation](TempSpiral.gif)
 
 ### Visualization Dimensions Using the Visualization Wheel
